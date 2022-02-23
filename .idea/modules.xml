@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Documents/.idea/Documents.iml" filepath="$PROJECT_DIR$/../Documents/.idea/Documents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dsci478k.iml" filepath="$PROJECT_DIR$/.idea/dsci478k.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deep-learning-illustrated/notebooks/.idea/notebooks.iml" filepath="$PROJECT_DIR$/../deep-learning-illustrated/notebooks/.idea/notebooks.iml" />
+    </modules>
+  </component>
+</project>
